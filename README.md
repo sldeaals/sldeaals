@@ -21,8 +21,8 @@ I am Daniel Arias, a passionate software engineer and innovation enthusiast with
 </p>
 
 ## Projects
-- [Exbi Trade](https://exbi.trade/en){:target="_blank"} - A cryptocurrency trading platform.
-- [Energo App](https://energo.app/){:target="_blank"} - An energy management application.
+- [Exbi Trade](https://exbi.trade/en) - A cryptocurrency trading platform.
+- [Energo App](https://energo.app/) - An energy management application.
 
 ## Experience
 I have experience working in diverse teams ranging from 5 to 30+ people, where collaboration and support are paramount. My work has taken me to different countries, including the Dominican Republic, Russia, Ukraine, the UAE, and Colombia, where I have physically worked. Additionally, I have collaborated with teams based in Chile, Argentina, and the United States remotely.
@@ -38,7 +38,7 @@ I am deeply passionate about cryptocurrency, which is currently my favorite nich
 </p>
 
 ## Contact Me
-If you're interested in collaborating or have any inquiries, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/daniel-arias-ab6b3a74/){:target="_blank"}.
+If you're interested in collaborating or have any inquiries, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/daniel-arias-ab6b3a74/).
 
 ---
 
