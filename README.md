@@ -28,7 +28,7 @@ I am Daniel Arias, a passionate software engineer and innovation enthusiast with
 ## Experience
 Throughout my career, I've held roles as a team leader, mentor, and project manager. With over 5 years of experience, I've specialized as a full-stack developer, with a primary focus on backend development, supplemented by over 3 years of frontend development expertise. My professional journey has predominantly involved collaboration with SaaS companies. Since 2019, I've transitioned to remote work, occasionally adopting a hybrid model when needed.
 I have experience working in diverse teams ranging from 5 to 30+ people, where collaboration and support are paramount.
-My work has taken me to different countries, including the Dominican Republic, Russia, Ukraine, the UAE, and Colombia, where I have worked physically. Additionally, I have collaborated with teams based remotely in Chile, Argentina, and the United States.
+My work has taken me to different countries, including the Dominican Republic, Russia, Ukraine, and the UAE, where I have worked physically. Additionally, I have collaborated with teams based remotely in Colombia, Chile, Argentina, and the United States.
 
 ## Crypto Enthusiast
 I am deeply passionate about cryptocurrency, currently my favorite niche. I am actively studying technologies such as blockchain, smart contracts, Ethereum, Bitcoin, and more. My focus is on developing DApps, crypto payment gateways, digital wallets, trading platforms, and other innovative solutions.
