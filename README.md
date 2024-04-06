@@ -1,13 +1,14 @@
 # Daniel Arias - Senior FullStack Developer
 
 ## About Me
-I am Daniel Arias, a passionate software engineer and innovation enthusiast with over 8 years of professional experience. I specialize in Full Stack JavaScript Development, with a focus on building scalable and innovative solutions.
+I am Daniel Arias, a passionate software engineer and innovation enthusiast with over 8 years of professional experience. I specialize in Full Stack JavaScript Development, focusing on building scalable and innovative solutions.
 
 ## Technologies
 - **Frontend**: ReactJS, React Native, TypeScript
 - **Backend**: NodeJS, Golang, Delphi, Python
 - **Databases**: SQL (MS SQL Server, MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB)
 - **DevOps**: Docker, GitHub Actions, AWS, Jenkins
+- **Design**: Figma
 - **Testing**: Jest, react-testing-library, Cypress
 
 <p align="center">
@@ -25,10 +26,12 @@ I am Daniel Arias, a passionate software engineer and innovation enthusiast with
 - [Energo App](https://energo.app/) - An energy management application.
 
 ## Experience
-I have experience working in diverse teams ranging from 5 to 30+ people, where collaboration and support are paramount. My work has taken me to different countries, including the Dominican Republic, Russia, Ukraine, the UAE, and Colombia, where I have physically worked. Additionally, I have collaborated with teams based in Chile, Argentina, and the United States remotely.
+Throughout my career, I've held roles as a team leader, mentor, and project manager. With over 5 years of experience, I've specialized as a full-stack developer, with a primary focus on backend development, supplemented by over 3 years of frontend development expertise. My professional journey has predominantly involved collaboration with SaaS companies. Since 2019, I've transitioned to remote work, occasionally adopting a hybrid model when needed.
+I have experience working in diverse teams ranging from 5 to 30+ people, where collaboration and support are paramount.
+My work has taken me to different countries, including the Dominican Republic, Russia, Ukraine, the UAE, and Colombia, where I have worked physically. Additionally, I have collaborated with teams based remotely in Chile, Argentina, and the United States.
 
 ## Crypto Enthusiast
-I am deeply passionate about cryptocurrency, which is currently my favorite niche. I am actively studying technologies such as blockchain, smart contracts, Ethereum, Bitcoin, and more. I am focused on developing DApps, crypto payments gateways, digital wallets, trading platforms, and other innovative solutions.
+I am deeply passionate about cryptocurrency, currently my favorite niche. I am actively studying technologies such as blockchain, smart contracts, Ethereum, Bitcoin, and more. My focus is on developing DApps, crypto payment gateways, digital wallets, trading platforms, and other innovative solutions.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain">
