@@ -1,7 +1,7 @@
 # Daniel Arias - Senior Full Stack Engineer/Developer
 
 ## About Me
-I am Daniel Arias, a passionate software engineer and innovation enthusiast with over 8 years of professional experience. I specialize in Full Stack JavaScript Development, focusing on building scalable and innovative solutions.
+I am Daniel Arias, a passionate software engineer and innovation enthusiast with over 9 years of professional experience. I specialize in Full Stack JavaScript Development, focusing on building scalable and innovative solutions.
 
 ## Technologies
 - **Frontend**: ReactJS, React Native, TypeScript, Redux
